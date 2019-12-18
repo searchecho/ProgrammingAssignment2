@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Create a matrix that is invertible.
 
 makeCacheMatrix <- function(x = matrix()) {
